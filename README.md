@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Myoth13
-- 👀 I’m interested in health science
-- 🌱 I’m currently learning statistics
-- 💞️ I’m looking to collaborate on epidemiological research project
-- 📫 myoth13_at_gmail
+- 👋 Hi, I’m Anna
+- 👀 I’m passionate about Data Science and Bayesian Statistics
+- 🌱 I’m currently learning python and R
+- 💞️ I’m looking to collaborate on any research projects 
+- 📫 myoth13 (gmail), @Myothmyoth (telegram0
 
 
 <!---
