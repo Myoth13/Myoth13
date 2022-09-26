@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anna
-- 👀 I’m passionate about Data Science and Bayesian Statistics
+- 💞️ I’m passionate about Data Science and Bayesian Statistics
 - 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on any research projects 
-- 📫 myoth13 (gmail), @Myothmyoth (telegram0
+- 👀 I’m looking to collaborate on any research projects 
+- 📫 myoth13 (gmail), @Myothmyoth (telegram)
 
 
 <!---
